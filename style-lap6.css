@@ -1,0 +1,70 @@
+* {
+    font-family: Tahoma, arial;
+    font-size: 15px;    
+}
+
+body {
+    margin: 0 12%;
+}
+
+header {
+    height: 70px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+footer {
+    height: 50px;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    width: 60px;
+    float: left;
+}
+
+.logo-text {
+    float: left;
+    margin: 20px 10px;
+}
+
+.menu {
+    float: right;
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+}
+.text{
+    width: 26%;
+    height: 188px;
+    float: left;
+    background-color: white;
+    margin: 20px 12px;
+    border-radius: 3px;
+    border: 2px solid black;
+    overflow: scroll;
+}
+
+.clear-both {
+    clear: both;
+}
+.chamngon{
+    width: 100%;
+    height:90px;
+    border: 2px solid black;
+    background: gray;
+    text-align: center;
+}
+.tacgia{
+    float: right;
+    margin: 37px 100px;
+}
+.clear-both{
+    clear: both;
+}
