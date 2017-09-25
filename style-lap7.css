@@ -1,0 +1,87 @@
+* {
+    font-family: Tahoma, arial;
+    font-size: 15px;
+    color: orange;
+}
+
+body {
+    margin: 0 12%;
+}
+
+header {
+    height: 70px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+footer {
+    height: 50px;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    width: 60px;
+    float: left;
+}
+
+.logo-text {
+    float: left;
+    margin: 20px 10px;
+}
+
+.menu {
+    float: right;
+    background-image: url(https://chiasetainguyen.com/upload-file/thumb58b78e573c43e.jpg);
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+}
+.text{
+    width: 26%;
+    height: 188px;
+    float: left;
+    background-color: white;
+    margin: 20px 34px;
+    border-radius: 8px;
+    border: 2px solid green;
+    overflow: scroll;
+}
+
+.clear-both {
+    clear: both;
+}
+.chamngon{
+    width: 100%;
+    height:70px;
+    border: 2px solid black;
+    background: gray;
+    text-align: center;
+    font-style: italic;
+}
+.tacgia{
+    float: right;
+    margin: 28px 100px;
+}
+.clear-both{
+    clear: both;
+}
+a{
+    margin-left: 30px;
+}
+.back-to-top{
+    display: scroll;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.back-to-top img{
+    width: 30%;
+    float: right;
+    padding: 10px;
+}
